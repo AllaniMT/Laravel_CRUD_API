@@ -1,2 +1,2 @@
 # Laravel_CRUD_API
-RESTful  CRUD API in Laravel (PHP) 
+RESTful  CRUD API with Laravel (PHP) 
